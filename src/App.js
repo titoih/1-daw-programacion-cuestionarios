@@ -116,7 +116,7 @@ const App = () => {
             b="El método más largo."
             c="El método main()."
             d="El método run()."
-            correct="c) EL método main()"
+            correct="c) El método main()"
           />
           <hr></hr>
           <Question
@@ -148,7 +148,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="¿Cuáles de los siguientes operadores en java son relacionales?"
+            texto="¿Cuáles de los siguientes operadores en java son relacionales? (verdadero o falso)"
             a="<"
             b="=="
             c="="
@@ -194,7 +194,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="Son entornos de desarrollo:"
+            texto="Son entornos de desarrollo: (verdadero o falso)"
             a="Office"
             b="Windows 10"
             c="Ubuntu"
@@ -241,7 +241,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="Son lenguajes de programación:"
+            texto="Son lenguajes de programación: (verdadero o falso)"
             a="inglés"
             b="java"
             c="esperanto"
@@ -378,7 +378,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto='En el bloque de código, if(x<=0){ System.out.println("mensaje1"); }else{ System.out.println("mensaje2"); } ¿Para qué valores de x se mostrará por consola el mensaje “mensaje2”?'
+            texto='En el bloque de código, if(x<=0){ System.out.println("mensaje1"); }else{ System.out.println("mensaje2"); } ¿Para qué valores de x se mostrará por consola el mensaje “mensaje2”? (verdadero o falso)'
             a="0"
             b="-1"
             c="3"
@@ -442,7 +442,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto='En el bloque de código, if(x==0){ System.out.println("mensaje1"); }else if(x<0){ System.out.println("mensaje2"); }else if(x%3==0){ System.out.println("mensaje3"); }else{ System.out.println("mensaje4"); } ¿Para qué valores de x se mostrará por consola el mensaje “mensaje4”?'
+            texto='En el bloque de código, if(x==0){ System.out.println("mensaje1"); }else if(x<0){ System.out.println("mensaje2"); }else if(x%3==0){ System.out.println("mensaje3"); }else{ System.out.println("mensaje4"); } ¿Para qué valores de x se mostrará por consola el mensaje “mensaje4”? (verdadero o falso)'
             a="0"
             b="-1"
             c="3"
@@ -462,7 +462,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="¿Cuáles de los siguientes operadores en java son lógicos?"
+            texto="¿Cuáles de los siguientes operadores en java son lógicos? (verdadero o falso)"
             a="<="
             b="=="
             c="="
@@ -490,7 +490,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto='En el bloque de código, if(x==0){ System.out.println("mensaje1"); }else if(x<0){ System.out.println("mensaje2"); }else{ System.out.println("mensaje3"); } ¿Para qué valores de x se mostrará por consola el mensaje “mensaje3”?'
+            texto='En el bloque de código, if(x==0){ System.out.println("mensaje1"); }else if(x<0){ System.out.println("mensaje2"); }else{ System.out.println("mensaje3"); } ¿Para qué valores de x se mostrará por consola el mensaje “mensaje3”? (verdadero o falso)'
             a="0"
             b="-1"
             c="3"
@@ -500,7 +500,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto='En el bloque de código, if(x%2==0){ System.out.println("hola!"); } ¿Para qué valores de x se muestra “hola!”?'
+            texto='En el bloque de código, if(x%2==0){ System.out.println("hola!"); } ¿Para qué valores de x se muestra “hola!”? (verdadero o falso)'
             a="1"
             b="2"
             c="3"
@@ -510,7 +510,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto='En el bloque de código, if(x%2!=0 || x==0){ System.out.println("hola!"); } ¿Para qué valores de x se muestra “hola!”?'
+            texto='En el bloque de código, if(x%2!=0 || x==0){ System.out.println("hola!"); } ¿Para qué valores de x se muestra “hola!”? (verdadero o falso)'
             a="1"
             b="2"
             c="3"
@@ -529,7 +529,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto='En el bloque de código, int x=0; int y=x+1; if(exp) { System.out.println("x vale 0"); } ¿Con qué expresión debo sustituir exp para que se muestre por pantalla la cadena “x vale 0”?'
+            texto='En el bloque de código, int x=0; int y=x+1; if(exp) { System.out.println("x vale 0"); } ¿Con qué expresión debo sustituir exp para que se muestre por pantalla la cadena “x vale 0”? (verdadero o falso)'
             a="y==0"
             b="x==0"
             c="y==1"
@@ -601,7 +601,7 @@ const App = () => {
             b="a=3 y b=1"
             c="a=1 y b=1"
             d="a=3 y b=3"
-            correct=""
+            correct="c) a=1 y b=1"
           />
           <hr></hr>
           <Question
@@ -651,7 +651,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto='¿Qué condición debo poner en el bucle del siguiente código, int x = 1; while (condición) { System.out.println(x); x++; } para que se muestren por consola todos los números enteros entre 1 y 10 inclusive?'
+            texto='¿Qué condición debo poner en el bucle del siguiente código, int x = 1; while (condición) { System.out.println(x); x++; } para que se muestren por consola todos los números enteros entre 1 y 10 inclusive? (verdadero o falso)'
             a="x<10"
             b="x<=10"
             c="x>=10"
@@ -661,7 +661,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="¿Cuáles de las siguientes estructuras corresponden a bucles?"
+            texto="¿Cuáles de las siguientes estructuras corresponden a bucles? (verdadero o falso)"
             a="do while"
             b="switch"
             c="if-then-else"
@@ -698,7 +698,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="¿Qué condición debo poner en el bucle del siguiente código, int x=1 do { System.out.println(x); x++; } while (condición); para que se muestren por consola todos los números enteros entre 1 y 10 inclusive?"
+            texto="¿Qué condición debo poner en el bucle del siguiente código, int x=1 do { System.out.println(x); x++; } while (condición); para que se muestren por consola todos los números enteros entre 1 y 10 inclusive? (verdadero o falso)"
             a="x<10"
             b="x<=10"
             c="x>=10"
@@ -726,7 +726,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="¿En cuáles de las siguientes expresiones de la condición2 los bucles anidados son dependientes? for (int i = 0; condición1; i++) { for (int j = 0; condición2; j++) { … } }"
+            texto="¿En cuáles de las siguientes expresiones de la condición2 los bucles anidados son dependientes? for (int i = 0; condición1; i++) { for (int j = 0; condición2; j++) { … } } (verdadero o falso)"
             a="j<10"
             b="j<i"
             c="i+j<10"
@@ -892,12 +892,12 @@ const App = () => {
             correct="a) En el mismo de la definición de la función"
           />
           <Question
-            texto="En el siguiente código, int x = 1; {//bloque 1 int y = 2; {//bloque 2 int z = 3; System.out.println(z); int t = 4; {//bloque 3 int u=5; } } } la variable z existe en:"
+            texto="En el siguiente código, int x = 1; {//bloque 1 int y = 2; {//bloque 2 int z = 3; System.out.println(z); int t = 4; {//bloque 3 int u=5; } } } la variable z existe en: (verdadero o falso)"
             a="El bloque 1"
             b="El bloque 2"
             c="El bloque 3"
             d="En todo el código"
-            correct="a) EL bloque 1 falsa / b) El bloque 2 verdadera / c) El bloque 3 verdadera / d) En todo el código falsa"
+            correct="a) El bloque 1 falsa / b) El bloque 2 verdadera / c) El bloque 3 verdadera / d) En todo el código falsa"
           />
           <Question
             texto="En el siguiente código, ¿cuál es el ámbito de la variable x? int x = 1; {//bloque 1 int y = 2; {//bloque 2 int z = 3; System.out.println(z); int t = 4; {//bloque 3 int u=5; } } }"
@@ -908,7 +908,7 @@ const App = () => {
             correct="c) Todo el código"
           />
           <Question
-            texto="Sustituye los puntos suspensivos por la lista de parámetros en la siguiente definición: static double mediaPonderada(…) { return x * 0.4 + y * 0.6; }"
+            texto="Sustituye los puntos suspensivos por la lista de parámetros en la siguiente definición: static double mediaPonderada(…) { return x * 0.4 + y * 0.6; } (verdadero o falso)"
             a="int x, int y"
             b="double x, double y"
             c="String x, String y"
@@ -1376,7 +1376,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="Relaciona cada método de String con el tipo de comparación que realiza."
+            texto="Relaciona cada método de String con el tipo de comparación que realiza. (verdadero o falso)"
             a="Comparación alfabética"
             b="Comparación de igualdad"
             c="Comparación alfabética sin distinguir entre mayúsculas ni minúsculas"
@@ -1412,7 +1412,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="Cuáles de los siguientes literales puede contener una variable de tipo String:"
+            texto="Cuáles de los siguientes literales puede contener una variable de tipo String: (verdadero o falso)"
             a="1234"
             b="1234.0"
             c="'1234'"
@@ -1440,7 +1440,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="Cuáles de los siguientes conceptos engloba un carácter:"
+            texto="Cuáles de los siguientes conceptos engloba un carácter: (verdadero o falso)"
             a="Cualquier letra"
             b="Una frase"
             c="Un número"
@@ -1451,7 +1451,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="Cuáles de las siguientes maneras permite comprobar si la variable cad de tipo String es una cadena vacía:"
+            texto="Cuáles de las siguientes maneras permite comprobar si la variable cad de tipo String es una cadena vacía: (verdadero o falso)"
             a="if (cad == &quot;&quot;)"
             b="if (cad.isEmpty())"
             c="f (cad.length() == 0)"
@@ -1478,7 +1478,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="Selecciona la forma correcta con la que se puede comparar cadenas (de tipo String)"
+            texto="Selecciona la forma correcta con la que se puede comparar cadenas (de tipo String) (verdadero o falso)"
             a="=="
             b="equals()"
             c="equalsIgnoreCase()"
@@ -1489,7 +1489,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="Cuáles son las formas de representar un code point en un código Java:"
+            texto="Cuáles son las formas de representar un code point en un código Java: (verdadero o falso)"
             a="En hexadecimal. Por ejemplo \u1234"
             b="En decimal. Por ejemplo 1234"
             c="Con un mega-carácter. Por ejemplo @1234"
@@ -1673,7 +1673,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="Un constructor"
+            texto="Un constructor (verdadero o falso)"
             a="Debe tener el mismo nombre que la clase a la que pertenece"
             b="Puede tener cualquier nombre siempre que se especifique en la definición de la clase: "
             c="Puede sobrecargarse"
@@ -1719,7 +1719,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="Indica las frases correctas con respecto a this()"
+            texto="Indica las frases correctas con respecto a this() (verdadero o falso)"
             a="Permite invocar cualquier método de una clase"
             b="Permite invocar, desde un constructor, a otros constructores"
             c="Siempre tiene que ser utilizado en la primera línea de un constructor"
@@ -1756,7 +1756,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="Cuáles son los modificadores de acceso para miembros de una clase."
+            texto="Cuáles son los modificadores de acceso para miembros de una clase. (verdadero o falso)"
             a="public"
             b="por defecto"
             c="private"
@@ -1811,7 +1811,7 @@ const App = () => {
           />
           <hr></hr>
           <Question
-            texto="Cuáles son los elementos que componen una clase:"
+            texto="Cuáles son los elementos que componen una clase: (verdadero o falso)"
             a="Atributos"
             b="Habilidades"
             c="Métodos"
@@ -2831,196 +2831,6 @@ const App = () => {
             e="Un tipo primitivo de datos "
             correct="c) / d) verdaderas | a) / b) / e) falsas"
           />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
-          <Question
-            texto=""
-            a=""
-            b=""
-            c=""
-            d=""
-            correct=""
-          />
-          <hr></hr>
         </div>
       </section>
     </div>
@@ -3028,11 +2838,3 @@ const App = () => {
 }
 
 export default App;
-{/* <Question
-  texto=""
-  a=""
-  b=""
-  c=""
-  d=""
-  correct=""
-/> */}
