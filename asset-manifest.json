@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/1-daw-programacion-cuestionarios/static/css/main.7a9dfbca.css",
-    "main.js": "/1-daw-programacion-cuestionarios/static/js/main.c2fd1d23.js",
+    "main.css": "/1-daw-programacion-cuestionarios/static/css/main.ffcf1b45.css",
+    "main.js": "/1-daw-programacion-cuestionarios/static/js/main.466f6525.js",
     "static/js/787.be6c714a.chunk.js": "/1-daw-programacion-cuestionarios/static/js/787.be6c714a.chunk.js",
     "index.html": "/1-daw-programacion-cuestionarios/index.html",
-    "main.7a9dfbca.css.map": "/1-daw-programacion-cuestionarios/static/css/main.7a9dfbca.css.map",
-    "main.c2fd1d23.js.map": "/1-daw-programacion-cuestionarios/static/js/main.c2fd1d23.js.map",
+    "main.ffcf1b45.css.map": "/1-daw-programacion-cuestionarios/static/css/main.ffcf1b45.css.map",
+    "main.466f6525.js.map": "/1-daw-programacion-cuestionarios/static/js/main.466f6525.js.map",
     "787.be6c714a.chunk.js.map": "/1-daw-programacion-cuestionarios/static/js/787.be6c714a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a9dfbca.css",
-    "static/js/main.c2fd1d23.js"
+    "static/css/main.ffcf1b45.css",
+    "static/js/main.466f6525.js"
   ]
 }
