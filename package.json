@@ -1,6 +1,6 @@
 {
-  "home": "https://titoih.github.io/1-daw-programacion-cuestionarios/",
   "name": "cuestionarios-programacion-daw",
+  "homepage": "https://titoih.github.io/1-daw-programacion-cuestionarios/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
